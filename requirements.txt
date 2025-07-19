@@ -16,4 +16,7 @@ config==0.5.1
 einops==0.7.0
 onnxruntime==1.16.2
 fsspec==2025.3.0
-huggingface_hub==0.19.4
+transformers==4.36.2
+accelerate==0.26.1
+huggingface_hub==0.20.0
+sentence-transformers==2.2.2
